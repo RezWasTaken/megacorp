@@ -1,0 +1,36 @@
+[33mcommit da05489673a8f89a9de5e6491dc8e2b9fd44abb1[m[33m ([m[1;36mHEAD -> [m[1;32madd_customers[m[33m)[m
+Merge: 883e83a 2e4d98f
+Author: RezWasTaken <IFeedTheTroll@Gmail.com>
+Date:   Tue Jul 16 14:42:10 2024 -0400
+
+    E: resolve conflict with stupid Greg's customer.
+
+[33mcommit 2e4d98f20c5a6da55d5b26c245f290ea65e311c4[m[33m ([m[1;32mmain[m[33m)[m
+Author: RezWasTaken <IFeedTheTroll@Gmail.com>
+Date:   Tue Jul 16 14:35:52 2024 -0400
+
+    D: updated customers/all.csv
+
+[33mcommit 883e83a8abf8fa85f6cb45f1fdbdedf2c25600c3[m
+Author: RezWasTaken <IFeedTheTroll@Gmail.com>
+Date:   Tue Jul 16 14:34:59 2024 -0400
+
+    C: update customers and partners
+
+[33mcommit a5ebb0a8105710b2aa9a704ca951de4abd81bcde[m
+Author: RezWasTaken <IFeedTheTroll@Gmail.com>
+Date:   Tue Jul 16 14:28:54 2024 -0400
+
+    B: slander
+
+[33mcommit 03886b5dc3a31dc77bd6ded53a9f9019edca68c3[m[33m ([m[1;31morigin/add_contrib[m[33m)[m
+Author: RezWasTaken <IFeedTheTroll@Gmail.com>
+Date:   Tue Jul 16 14:18:02 2024 -0400
+
+    A: added myself as contributor
+
+[33mcommit 0d16f954dfda53be7e875da6a23698c428cf68af[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: wagslane <lane.c.wagner@gmail.com>
+Date:   Wed Jun 26 11:22:51 2024 -0600
+
+    A: The Founding of MegaCorp and the End of Art
